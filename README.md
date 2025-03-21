@@ -6,7 +6,7 @@ I used to define myself as a Python fan, nowadays I would most likely just say I
 ..but every day I write code in C# language.
 
 I pursued a MSc in telecommunications, applied mathematics, machine learning and computer science, at the SPbUT (Saint Petersburg) 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=ilia-maslakov&show_icons=true">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=dimitrymas&show_icons=true">
 
 ## Languages and Technologies I use daily
 
