@@ -2,10 +2,15 @@
 
  <strong>I'm a Fullstack Developer</strong>
  
-I used to define myself as a Python fan, nowadays I would most likely just say I like Python, С and Bash as my favorite programming languages!
-..but every day I write code in C# language.
+I used to call myself a Python fanboy, but nowadays I just say: Python, C, and a bit of C# are my working tools — not a religion.
+I'm a fullstack developer with a strong backend focus. My core stack includes FastAPI, Strawberry GraphQL, Beanie, PyJWT, and asyncio.
+On the frontend — React with Next.js (app router), Apollo, zustand, Tailwind, ShadCN, and codegen — a minimalistic but production-ready setup.
 
-I pursued a MSc in telecommunications, applied mathematics, machine learning and computer science, at the SPbUT (Saint Petersburg) 
+I don't just write code — I ship it. Docker, Compose, Swarm, GitLab CI/CD, Traefik, Cloudflare, auto-deployments — all part of the workflow.
+I like having control over infrastructure, building pipelines, debugging prod, and automating anything that smells like routine.
+
+In short — I enjoy code that lives in production, clean interfaces, precise queries, and systems that stay under control.
+
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=dimitrymas&show_icons=true">
 
 ## Languages and Technologies I use daily
@@ -44,4 +49,3 @@ Version control
 
 [![Git](https://img.shields.io/badge/-Git%20%20%20%20-black?logoWidth=60&style=for-the-badge&logo=git&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logoWidth=30&style=for-the-badge&logo=github&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
-[![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
