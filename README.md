@@ -6,10 +6,10 @@ I used to call myself a Python fanboy, but nowadays I just say: Python, C, and a
 I'm a fullstack developer with a strong backend focus. My core stack includes FastAPI, Strawberry GraphQL, Beanie, PyJWT, and asyncio.
 On the frontend — React with Next.js (app router), Apollo, zustand, Tailwind, ShadCN, and codegen — a minimalistic but production-ready setup.
 
-I don't just write code — I ship it. Docker, Compose, Swarm, GitLab CI/CD, Traefik, Cloudflare, auto-deployments — all part of the workflow.
-I like having control over infrastructure, building pipelines, debugging prod, and automating anything that smells like routine.
+I don’t just write code — I ship it. Docker, Compose, Swarm, GitLab CI/CD, Traefik, Cloudflare, auto-deployments — all part of the workflow.
+Infrastructure is self-hosted, including my own private GitLab instance at gitlab.coverflow.net, where I manage projects like tnl.coverflow.net, a self-hosted repository for my work in progress.
 
-In short — I enjoy code that lives in production, clean interfaces, precise queries, and systems that stay under control.
+I like having control over systems end-to-end: from writing the logic, to designing clean UIs, to deploying everything on my own terms.
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=dimitrymas&show_icons=true">
 
