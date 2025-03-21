@@ -31,7 +31,6 @@ I like having control over systems end-to-end: from writing the logic, to design
 
 Database
 
-[![Oracle](https://img.shields.io/badge/-oracle-a0c4db?logoWidth=40&style=flat-square&logo=oracle&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
 [![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
 [![MySQL](https://img.shields.io/badge/-MySQL-a0c4db?logoWidth=40&style=flat-square&logo=mysql&link=https://github.com/lucenarenato/)](https://github.com/ilia-maslakov/)
 
@@ -41,11 +40,4 @@ Operational System
 
 [![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows)](https://github.com/ilia-maslakov/)
 
-IDE's
 
-[![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=VisualStudioCode&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
-
-Version control
-
-[![Git](https://img.shields.io/badge/-Git%20%20%20%20-black?logoWidth=60&style=for-the-badge&logo=git&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?logoWidth=30&style=for-the-badge&logo=github&link=https://github.com/ilia-maslakov/)](https://github.com/ilia-maslakov/)
