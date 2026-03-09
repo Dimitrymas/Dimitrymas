@@ -1,4 +1,4 @@
-# Dmitry Mas
+# Landerix
 
 **Fullstack Developer**
 
