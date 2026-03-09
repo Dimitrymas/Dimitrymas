@@ -40,18 +40,18 @@ Backend-focused fullstack developer. I build with Python + TypeScript, ship with
 
 | Project | Description |
 |---------|-------------|
-| [SmartCart](https://github.com/Dimitrymas/smartcart) | AI shopping assistant — Gemini function-calling, multi-store price comparison |
-| [MatchFit](https://github.com/Dimitrymas/matchfit) | Sports partner matching — swipe, real-time chat, PostGIS |
-| [Finance Game](https://github.com/Dimitrymas/finance-game) | Multiplayer life sim — AI storylines, turn-based gameplay |
-| [Teach & Learn](https://github.com/Dimitrymas/teach-and-learn) | P2P knowledge exchange — geo matching, MongoDB aggregation |
-| [CoWatch](https://github.com/Dimitrymas/co-watch) | Synchronized video watching — WebSocket rooms |
-| [vision-browser-sdk](https://github.com/Dimitrymas/vision-browser-sdk) | Browser automation SDK with AI vision |
+| [SmartCart](https://github.com/lander1x/smartcart) | AI shopping assistant — Gemini function-calling, multi-store price comparison |
+| [MatchFit](https://github.com/lander1x/matchfit) | Sports partner matching — swipe, real-time chat, PostGIS |
+| [Finance Game](https://github.com/lander1x/finance-game) | Multiplayer life sim — AI storylines, turn-based gameplay |
+| [Teach & Learn](https://github.com/lander1x/teach-and-learn) | P2P knowledge exchange — geo matching, MongoDB aggregation |
+| [CoWatch](https://github.com/lander1x/co-watch) | Synchronized video watching — WebSocket rooms |
+| [vision-browser-sdk](https://github.com/lander1x/vision-browser-sdk) | Browser automation SDK with AI vision |
 
 ---
 
 ### GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dimitrymas&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=lander1x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 ---
 
