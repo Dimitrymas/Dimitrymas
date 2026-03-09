@@ -11,8 +11,8 @@ Backend-focused fullstack developer with enterprise & highload experience. I bui
 **Backend**\
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Strawberry GraphQL](https://img.shields.io/badge/Strawberry_GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=flat&logo=google&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat&logo=natsdotio&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
 
@@ -32,18 +32,15 @@ Backend-focused fullstack developer with enterprise & highload experience. I bui
 **Infrastructure**\
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat&logo=traefikproxy&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 **Observability**\
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-
-**AI**\
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 
 ---
 
@@ -57,12 +54,6 @@ Backend-focused fullstack developer with enterprise & highload experience. I bui
 | [Teach & Learn](https://github.com/lander1x/teach-and-learn) | P2P knowledge exchange — geo matching, MongoDB aggregation |
 | [CoWatch](https://github.com/lander1x/co-watch) | Synchronized video watching — WebSocket rooms |
 | [vision-browser-sdk](https://github.com/lander1x/vision-browser-sdk) | Browser automation SDK with AI vision |
-
----
-
-### GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=lander1x&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 
 ---
 
