@@ -41,18 +41,3 @@ Backend-focused fullstack developer with enterprise & highload experience. I bui
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [SmartCart](https://github.com/Dimitrymas/smartcart) | AI shopping assistant — Gemini function-calling, multi-store price comparison |
-| [MatchFit](https://github.com/Dimitrymas/matchfit) | Sports partner matching — swipe, real-time chat, PostGIS |
-| [Finance Game](https://github.com/Dimitrymas/finance-game) | Multiplayer life sim — AI storylines, turn-based gameplay |
-| [Teach & Learn](https://github.com/Dimitrymas/teach-and-learn) | P2P knowledge exchange — geo matching, MongoDB aggregation |
-| [CoWatch](https://github.com/Dimitrymas/co-watch) | Synchronized video watching — WebSocket rooms |
-| [vision-browser-sdk](https://github.com/Dimitrymas/vision-browser-sdk) | Browser automation SDK with AI vision |
-
----
