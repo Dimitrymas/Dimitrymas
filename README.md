@@ -41,3 +41,11 @@ Backend-focused fullstack developer with enterprise & highload experience. I bui
 ![Loki](https://img.shields.io/badge/Loki-F46800?style=flat&logo=grafana&logoColor=white)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+
+---
+
+### Featured Projects
+
+- **[snip](https://github.com/Dimitrymas/snip)** — Distributed URL shortener in Go. Fiber HTTP API, NATS JetStream event pipeline, PostgreSQL + Redis, and a ClickHouse analytics service with Grafana dashboards.
+- **[co-watch](https://github.com/Dimitrymas/co-watch)** — Real-time watch-party platform. FastAPI + WebSocket playback sync, React/Vite client, shared playlists across YouTube, Vimeo, Twitch, and direct video.
+- **[rgbtape](https://github.com/Dimitrymas/rgbtape)** — Serial-controlled WS2812 (NeoPixel) LED strip driver for Arduino.
